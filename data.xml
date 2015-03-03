@@ -1,0 +1,3247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+<record> 
+<field name="responseCode" value="000" /> 
+<field name="responseDescription" value="Approved" /> 
+</record> 
+<record> 
+<field name='Id' value='102642435478' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106293662089' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='110000' />
+<field name='pan' value='504172******7118' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='07:23:01' />
+</record> 
+<record> 
+<field name='Id' value='102642472040' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106293979121' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='5000' />
+<field name='pan' value='502229******1121' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='07:36:32' />
+</record> 
+<record> 
+<field name='Id' value='102642502720' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106294085908' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='20000' />
+<field name='pan' value='639346******0189' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='07:45:56' />
+</record> 
+<record> 
+<field name='Id' value='102642522996' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106294124416' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='180000' />
+<field name='pan' value='639346******0189' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='07:51:34' />
+</record> 
+<record> 
+<field name='Id' value='102642952648' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106294940327' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='100000' />
+<field name='pan' value='621986******1021' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='09:08:21' />
+</record> 
+<record> 
+<field name='Id' value='102642990497' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106295011562' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='300000' />
+<field name='pan' value='627412******7424' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='09:13:11' />
+</record> 
+<record> 
+<field name='Id' value='102643033167' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106295090851' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='150000' />
+<field name='pan' value='589210******9389' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='09:18:29' />
+</record> 
+<record> 
+<field name='Id' value='102643068744' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106295161329' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='180000' />
+<field name='pan' value='627353*********2000' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='09:22:41' />
+</record> 
+<record> 
+<field name='Id' value='102643174580' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106295372089' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='318000' />
+<field name='pan' value='502229******2741' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='09:34:30' />
+</record> 
+<record> 
+<field name='Id' value='102643406013' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106295810597' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='80000' />
+<field name='pan' value='603799******3054' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='09:57:39' />
+</record> 
+<record> 
+<field name='Id' value='102643444429' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106295885194' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='140000' />
+<field name='pan' value='639346******1101' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='10:01:14' />
+</record> 
+<record> 
+<field name='Id' value='102643559188' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106296101321' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='161000' />
+<field name='pan' value='502229******1594' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='10:11:38' />
+</record> 
+<record> 
+<field name='Id' value='102643667421' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106296305762' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='67000' />
+<field name='pan' value='502229******1158' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='10:21:15' />
+</record> 
+<record> 
+<field name='Id' value='102643701675' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106296367611' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='104000' />
+<field name='pan' value='603799******4349' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='10:23:58' />
+</record> 
+<record> 
+<field name='Id' value='102643742942' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106296447314' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='290000' />
+<field name='pan' value='627412******3798' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='10:27:21' />
+</record> 
+<record> 
+<field name='Id' value='102643905096' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106296748249' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='22000' />
+<field name='pan' value='502229******9071' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='10:40:12' />
+</record> 
+<record> 
+<field name='Id' value='102644018655' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106296957533' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='106000' />
+<field name='pan' value='603799******2606' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='10:49:00' />
+</record> 
+<record> 
+<field name='Id' value='102644054287' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106297019661' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='77000' />
+<field name='pan' value='622106******0891' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='10:51:41' />
+</record> 
+<record> 
+<field name='Id' value='102644153588' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106297207206' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='268000' />
+<field name='pan' value='603799******6589' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='10:59:00' />
+</record> 
+<record> 
+<field name='Id' value='102644506377' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106297855994' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='110000' />
+<field name='pan' value='628023******8802' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='11:24:20' />
+</record> 
+<record> 
+<field name='Id' value='102644972038' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106298741397' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='390000' />
+<field name='pan' value='589463******2539' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='11:56:39' />
+</record> 
+<record> 
+<field name='Id' value='102645178528' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106299170229' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='970' />
+<field name='pan' value='603769******9082' />
+<field name='payerId' value='1' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='12:11:26' />
+</record> 
+<record> 
+<field name='Id' value='102645178530' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106299170229' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='30' />
+<field name='pan' value='603769******9082' />
+<field name='payerId' value='1' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='12:11:26' />
+</record> 
+<record> 
+<field name='Id' value='102645189454' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106299186611' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='970' />
+<field name='pan' value='603769******9082' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='12:12:10' />
+</record> 
+<record> 
+<field name='Id' value='102645189456' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106299186611' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='30' />
+<field name='pan' value='603769******9082' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='12:12:10' />
+</record> 
+<record> 
+<field name='Id' value='102645459679' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106299682754' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='2000000' />
+<field name='pan' value='589210******7474' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='12:30:22' />
+</record> 
+<record> 
+<field name='Id' value='102645592837' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106299931336' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='70000' />
+<field name='pan' value='502229******4633' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='12:39:32' />
+</record> 
+<record> 
+<field name='Id' value='102645780887' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106300280457' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='111000' />
+<field name='pan' value='603769******6063' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='12:52:42' />
+</record> 
+<record> 
+<field name='Id' value='102645868966' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106300433538' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='12500' />
+<field name='pan' value='639346******3841' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='12:59:13' />
+</record> 
+<record> 
+<field name='Id' value='102645875626' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106300451103' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='53000' />
+<field name='pan' value='622106******1672' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='12:59:40' />
+</record> 
+<record> 
+<field name='Id' value='102645927289' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106300544702' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='74000' />
+<field name='pan' value='603769******0257' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='13:03:14' />
+</record> 
+<record> 
+<field name='Id' value='102645984862' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106300652896' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='235000' />
+<field name='pan' value='627353*********9000' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='13:07:31' />
+</record> 
+<record> 
+<field name='Id' value='102646017932' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106300713605' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='100000' />
+<field name='pan' value='621986******7350' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='13:10:01' />
+</record> 
+<record> 
+<field name='Id' value='102646187631' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106301058073' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='295000' />
+<field name='pan' value='639607******2929' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='13:24:37' />
+</record> 
+<record> 
+<field name='Id' value='102646590221' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106301887319' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='86000' />
+<field name='pan' value='621986******5969' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='14:02:35' />
+</record> 
+<record> 
+<field name='Id' value='102646649713' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106302044999' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='173000' />
+<field name='pan' value='622106******6957' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='14:09:05' />
+</record> 
+<record> 
+<field name='Id' value='102646752861' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106302355632' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='122000' />
+<field name='pan' value='622106******4667' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='14:21:15' />
+</record> 
+<record> 
+<field name='Id' value='102646784998' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106302457429' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='186000' />
+<field name='pan' value='603769******3166' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='14:25:11' />
+</record> 
+<record> 
+<field name='Id' value='102646789446' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106302471412' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='528000' />
+<field name='pan' value='610433******5544' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='14:25:42' />
+</record> 
+<record> 
+<field name='Id' value='102646943361' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106302963996' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='145000' />
+<field name='pan' value='603799******8572' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='14:45:08' />
+</record> 
+<record> 
+<field name='Id' value='102646998457' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106303160162' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='70000' />
+<field name='pan' value='627412******0927' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='14:52:33' />
+</record> 
+<record> 
+<field name='Id' value='102647157568' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106303684841' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='66000' />
+<field name='pan' value='603769******5529' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='15:14:26' />
+</record> 
+<record> 
+<field name='Id' value='102647336264' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106304257769' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='214000' />
+<field name='pan' value='610433******2955' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='15:38:17' />
+</record> 
+<record> 
+<field name='Id' value='102647401169' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106304485989' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='106000' />
+<field name='pan' value='627353*********0000' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='15:46:30' />
+</record> 
+<record> 
+<field name='Id' value='102647602338' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106305177862' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='24000' />
+<field name='pan' value='603799******2031' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='16:10:29' />
+</record> 
+<record> 
+<field name='Id' value='102647679711' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106305439743' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='45590' />
+<field name='pan' value='603799******2378' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='16:18:48' />
+</record> 
+<record> 
+<field name='Id' value='102647679713' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106305439743' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='1410' />
+<field name='pan' value='603799******2378' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='16:18:48' />
+</record> 
+<record> 
+<field name='Id' value='102647876475' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106305949813' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='472390' />
+<field name='pan' value='622106******3396' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='16:39:07' />
+</record> 
+<record> 
+<field name='Id' value='102647876478' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106305949813' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='14610' />
+<field name='pan' value='622106******3396' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='16:39:07' />
+</record> 
+<record> 
+<field name='Id' value='102647916885' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106306043960' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='160050' />
+<field name='pan' value='628157******2766' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='16:43:23' />
+</record> 
+<record> 
+<field name='Id' value='102647916890' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106306043960' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='4950' />
+<field name='pan' value='628157******2766' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='16:43:23' />
+</record> 
+<record> 
+<field name='Id' value='102647925574' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106306057764' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='199000' />
+<field name='pan' value='639607******2976' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='16:44:31' />
+</record> 
+<record> 
+<field name='Id' value='102648128344' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106306522046' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='25000' />
+<field name='pan' value='502229******2538' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:03:36' />
+</record> 
+<record> 
+<field name='Id' value='102648216853' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106306691715' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='260445' />
+<field name='pan' value='610433******9305' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:10:23' />
+</record> 
+<record> 
+<field name='Id' value='102648216856' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106306691715' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='8055' />
+<field name='pan' value='610433******9305' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:10:23' />
+</record> 
+<record> 
+<field name='Id' value='102648297495' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106306834957' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='57000' />
+<field name='pan' value='627381******1478' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:16:07' />
+</record> 
+<record> 
+<field name='Id' value='102648327564' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106306891237' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='190000' />
+<field name='pan' value='636214******2160' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:18:19' />
+</record> 
+<record> 
+<field name='Id' value='102648383757' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106306992547' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='70810' />
+<field name='pan' value='628023******5536' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:22:07' />
+</record> 
+<record> 
+<field name='Id' value='102648383760' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106306992547' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='2190' />
+<field name='pan' value='628023******5536' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:22:07' />
+</record> 
+<record> 
+<field name='Id' value='102648487323' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307179170' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='158500' />
+<field name='pan' value='502229******2732' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:29:07' />
+</record> 
+<record> 
+<field name='Id' value='102648676165' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307509605' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='77600' />
+<field name='pan' value='603770******1146' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:41:23' />
+</record> 
+<record> 
+<field name='Id' value='102648676167' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307509605' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='2400' />
+<field name='pan' value='603770******1146' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:41:23' />
+</record> 
+<record> 
+<field name='Id' value='102648712130' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307570102' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='24250' />
+<field name='pan' value='603799******6783' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:43:51' />
+</record> 
+<record> 
+<field name='Id' value='102648712133' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307570102' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='750' />
+<field name='pan' value='603799******6783' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:43:51' />
+</record> 
+<record> 
+<field name='Id' value='102648809202' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307740056' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='5000000' />
+<field name='pan' value='502229******5478' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:50:01' />
+</record> 
+<record> 
+<field name='Id' value='102648847587' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307805299' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='310400' />
+<field name='pan' value='610433******4051' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:52:25' />
+</record> 
+<record> 
+<field name='Id' value='102648847590' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307805299' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='9600' />
+<field name='pan' value='610433******4051' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:52:25' />
+</record> 
+<record> 
+<field name='Id' value='102648879659' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307853698' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='38800' />
+<field name='pan' value='627488******3321' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:54:34' />
+</record> 
+<record> 
+<field name='Id' value='102648879663' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307853698' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='1200' />
+<field name='pan' value='627488******3321' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:54:34' />
+</record> 
+<record> 
+<field name='Id' value='102648926424' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307929841' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='78570' />
+<field name='pan' value='627412******7899' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:57:28' />
+</record> 
+<record> 
+<field name='Id' value='102648926427' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307929841' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='2430' />
+<field name='pan' value='627412******7899' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:57:28' />
+</record> 
+<record> 
+<field name='Id' value='102648935573' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307945768' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='119795' />
+<field name='pan' value='610433******0533' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:58:02' />
+</record> 
+<record> 
+<field name='Id' value='102648935577' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307945768' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='3705' />
+<field name='pan' value='610433******0533' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:58:02' />
+</record> 
+<record> 
+<field name='Id' value='102648955584' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106307985056' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='122000' />
+<field name='pan' value='622106******9862' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='17:59:15' />
+</record> 
+<record> 
+<field name='Id' value='102649139478' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106308211385' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='46560' />
+<field name='pan' value='622106******0371' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='18:13:24' />
+</record> 
+<record> 
+<field name='Id' value='102649139479' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106308211385' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='1440' />
+<field name='pan' value='622106******0371' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='18:13:24' />
+</record> 
+<record> 
+<field name='Id' value='102649322175' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106308415360' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='117000' />
+<field name='pan' value='504706******3824' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='18:27:41' />
+</record> 
+<record> 
+<field name='Id' value='102649448095' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106308543994' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='273000' />
+<field name='pan' value='610433******3921' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='18:37:28' />
+</record> 
+<record> 
+<field name='Id' value='102650062322' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106309183978' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='160000' />
+<field name='pan' value='627412******1876' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='19:24:03' />
+</record> 
+<record> 
+<field name='Id' value='102650446855' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106309575921' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='170000' />
+<field name='pan' value='502229******8982' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='19:54:17' />
+</record> 
+<record> 
+<field name='Id' value='102650662022' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106309815435' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='150000' />
+<field name='pan' value='621986******2551' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='20:11:37' />
+</record> 
+<record> 
+<field name='Id' value='102650793009' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106309969101' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='140000' />
+<field name='pan' value='502229******6556' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='20:22:33' />
+</record> 
+<record> 
+<field name='Id' value='102650831777' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310004928' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='284500' />
+<field name='pan' value='603799******7174' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='20:26:00' />
+</record> 
+<record> 
+<field name='Id' value='102650899299' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310085907' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='215000' />
+<field name='pan' value='627353*********3000' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='20:31:46' />
+</record> 
+<record> 
+<field name='Id' value='102650934927' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310127785' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='46000' />
+<field name='pan' value='603799******6291' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='20:34:53' />
+</record> 
+<record> 
+<field name='Id' value='102650946315' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310143244' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='46000' />
+<field name='pan' value='502229******5735' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='20:35:54' />
+</record> 
+<record> 
+<field name='Id' value='102650956556' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310150771' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='36000' />
+<field name='pan' value='502229******5735' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='20:36:48' />
+</record> 
+<record> 
+<field name='Id' value='102651065469' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310291253' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='196500' />
+<field name='pan' value='610433******5333' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='20:46:42' />
+</record> 
+<record> 
+<field name='Id' value='102651204918' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310462709' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='365690' />
+<field name='pan' value='610433******4854' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='20:59:55' />
+</record> 
+<record> 
+<field name='Id' value='102651204920' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310462709' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='11310' />
+<field name='pan' value='610433******4854' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='20:59:55' />
+</record> 
+<record> 
+<field name='Id' value='102651413172' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310783011' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='80510' />
+<field name='pan' value='603799******4349' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='21:18:54' />
+</record> 
+<record> 
+<field name='Id' value='102651413175' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310783011' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='2490' />
+<field name='pan' value='603799******4349' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='21:18:54' />
+</record> 
+<record> 
+<field name='Id' value='102651505855' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310905647' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='118000' />
+<field name='pan' value='610433******6129' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='21:27:39' />
+</record> 
+<record> 
+<field name='Id' value='102651563630' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106310988100' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='237000' />
+<field name='pan' value='603769******6375' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='21:33:16' />
+</record> 
+<record> 
+<field name='Id' value='102651581299' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311016016' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='128525' />
+<field name='pan' value='627412******2364' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='21:35:02' />
+</record> 
+<record> 
+<field name='Id' value='102651581300' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311016016' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='3975' />
+<field name='pan' value='627412******2364' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='21:35:02' />
+</record> 
+<record> 
+<field name='Id' value='102651587120' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311020374' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='95000' />
+<field name='pan' value='589210******6616' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='21:35:37' />
+</record> 
+<record> 
+<field name='Id' value='102651619596' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311067892' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='103500' />
+<field name='pan' value='636214******2905' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='21:38:55' />
+</record> 
+<record> 
+<field name='Id' value='102651707545' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311205232' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='163000' />
+<field name='pan' value='622106******6530' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='21:48:02' />
+</record> 
+<record> 
+<field name='Id' value='102651801466' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311348732' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='140000' />
+<field name='pan' value='502229******5476' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='21:58:06' />
+</record> 
+<record> 
+<field name='Id' value='102651843181' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311427317' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='117370' />
+<field name='pan' value='603769******0781' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:02:04' />
+</record> 
+<record> 
+<field name='Id' value='102651843182' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311427317' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='3630' />
+<field name='pan' value='603769******0781' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:02:04' />
+</record> 
+<record> 
+<field name='Id' value='102651867263' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311484118' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='108000' />
+<field name='pan' value='603769******0393' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:03:24' />
+</record> 
+<record> 
+<field name='Id' value='102651876170' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311504514' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='46560' />
+<field name='pan' value='603769******0781' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:03:50' />
+</record> 
+<record> 
+<field name='Id' value='102651876174' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311504514' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='1440' />
+<field name='pan' value='603769******0781' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:03:50' />
+</record> 
+<record> 
+<field name='Id' value='102651893437' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311548043' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='142500' />
+<field name='pan' value='603799******1988' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:04:41' />
+</record> 
+<record> 
+<field name='Id' value='102651940649' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311657765' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='831290' />
+<field name='pan' value='610433******8308' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:07:06' />
+</record> 
+<record> 
+<field name='Id' value='102651940655' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311657765' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='25710' />
+<field name='pan' value='610433******8308' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:07:06' />
+</record> 
+<record> 
+<field name='Id' value='102651948469' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311676692' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='25000' />
+<field name='pan' value='589210******2624' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:07:32' />
+</record> 
+<record> 
+<field name='Id' value='102651963229' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311714329' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='50000' />
+<field name='pan' value='502229******2980' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:08:16' />
+</record> 
+<record> 
+<field name='Id' value='102652001048' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311807551' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='610000' />
+<field name='pan' value='627353*********7000' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:10:14' />
+</record> 
+<record> 
+<field name='Id' value='102652060257' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311951695' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='275000' />
+<field name='pan' value='504706******5085' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:13:35' />
+</record> 
+<record> 
+<field name='Id' value='102652073672' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311983802' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='54320' />
+<field name='pan' value='589463******7129' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:14:16' />
+</record> 
+<record> 
+<field name='Id' value='102652073674' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106311983802' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='1680' />
+<field name='pan' value='589463******7129' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:14:16' />
+</record> 
+<record> 
+<field name='Id' value='102652081744' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106312003895' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='190000' />
+<field name='pan' value='502229******4436' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:14:41' />
+</record> 
+<record> 
+<field name='Id' value='102652125910' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106312114737' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='85360' />
+<field name='pan' value='606256******3849' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:17:06' />
+</record> 
+<record> 
+<field name='Id' value='102652125927' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='4975553214' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106312114737' />
+<field name='transactionType' value='19' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='2640' />
+<field name='pan' value='606256******3849' />
+<field name='payerId' value='5' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:17:06' />
+</record> 
+<record> 
+<field name='Id' value='102652138939' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106312155061' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='122000' />
+<field name='pan' value='627412******9037' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:17:47' />
+</record> 
+<record> 
+<field name='Id' value='102652260118' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106312466122' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='123000' />
+<field name='pan' value='505801******2628' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:24:22' />
+</record> 
+<record> 
+<field name='Id' value='102652279704' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106312518160' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='560000' />
+<field name='pan' value='610433******3751' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:25:23' />
+</record> 
+<record> 
+<field name='Id' value='102652284319' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106312531086' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='38000' />
+<field name='pan' value='603799******6394' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:25:38' />
+</record> 
+<record> 
+<field name='Id' value='102652289398' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106312543176' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='25000' />
+<field name='pan' value='622106******4458' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:25:54' />
+</record> 
+<record> 
+<field name='Id' value='102652292938' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106312549678' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='278000' />
+<field name='pan' value='610433******5216' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:26:05' />
+</record> 
+<record> 
+<field name='Id' value='102652353206' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106312795735' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='182000' />
+<field name='pan' value='502229******7117' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:29:17' />
+</record> 
+<record> 
+<field name='Id' value='102652401495' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106312999924' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='125000' />
+<field name='pan' value='502229******6625' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:31:54' />
+</record> 
+<record> 
+<field name='Id' value='102652413110' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313052699' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='201000' />
+<field name='pan' value='621986******7594' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:32:39' />
+</record> 
+<record> 
+<field name='Id' value='102652441810' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313180656' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='17450' />
+<field name='pan' value='622106******6806' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:34:11' />
+</record> 
+<record> 
+<field name='Id' value='102652446166' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313201641' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='157000' />
+<field name='pan' value='622106******6806' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:34:25' />
+</record> 
+<record> 
+<field name='Id' value='102652458637' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313254700' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='20000' />
+<field name='pan' value='622106******6806' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:35:06' />
+</record> 
+<record> 
+<field name='Id' value='102652470419' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313308807' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='116000' />
+<field name='pan' value='589210******8226' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:35:42' />
+</record> 
+<record> 
+<field name='Id' value='102652481725' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313363643' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='420000' />
+<field name='pan' value='603799******1005' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:36:18' />
+</record> 
+<record> 
+<field name='Id' value='102652492840' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313418426' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='378500' />
+<field name='pan' value='603799******2461' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:36:54' />
+</record> 
+<record> 
+<field name='Id' value='102652524947' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313567369' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='110000' />
+<field name='pan' value='622106******3100' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:38:40' />
+</record> 
+<record> 
+<field name='Id' value='102652528614' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313577994' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='782000' />
+<field name='pan' value='627412******1142' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:38:51' />
+</record> 
+<record> 
+<field name='Id' value='102652533942' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313609353' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='1000000' />
+<field name='pan' value='603799******4518' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:39:08' />
+</record> 
+<record> 
+<field name='Id' value='102652537553' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313619967' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='219000' />
+<field name='pan' value='610433******4667' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:39:19' />
+</record> 
+<record> 
+<field name='Id' value='102652552843' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313698732' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='290000' />
+<field name='pan' value='589210******1772' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:40:08' />
+</record> 
+<record> 
+<field name='Id' value='102652558189' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313731188' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='68500' />
+<field name='pan' value='589210******4280' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:40:25' />
+</record> 
+<record> 
+<field name='Id' value='102652581740' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106313850274' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='232000' />
+<field name='pan' value='628023******1147' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:41:41' />
+</record> 
+<record> 
+<field name='Id' value='102652680629' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106314202284' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='113000' />
+<field name='pan' value='603799******5552' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:47:26' />
+</record> 
+<record> 
+<field name='Id' value='102652695194' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106314253022' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='254000' />
+<field name='pan' value='627353*********4000' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:48:15' />
+</record> 
+<record> 
+<field name='Id' value='102652721907' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106314339515' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='170000' />
+<field name='pan' value='628023******8802' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:49:50' />
+</record> 
+<record> 
+<field name='Id' value='102652735854' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106314391283' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='478000' />
+<field name='pan' value='627353*********6000' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:50:37' />
+</record> 
+<record> 
+<field name='Id' value='102652741072' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106314405909' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='231000' />
+<field name='pan' value='610433******7746' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:50:54' />
+</record> 
+<record> 
+<field name='Id' value='102652767150' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106314496665' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='98500' />
+<field name='pan' value='610433******3218' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:52:26' />
+</record> 
+<record> 
+<field name='Id' value='102652792487' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106314586936' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='244000' />
+<field name='pan' value='621986******9748' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:53:52' />
+</record> 
+<record> 
+<field name='Id' value='102652853751' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106314820968' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='60000' />
+<field name='pan' value='502229******2732' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='22:57:23' />
+</record> 
+<record> 
+<field name='Id' value='102652907851' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106315179334' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='550000' />
+<field name='pan' value='621986******7387' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:00:33' />
+</record> 
+<record> 
+<field name='Id' value='102652910108' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106315191644' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='210000' />
+<field name='pan' value='621986******3882' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:00:41' />
+</record> 
+<record> 
+<field name='Id' value='102652921434' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106315277706' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='165000' />
+<field name='pan' value='627353*********4000' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:01:24' />
+</record> 
+<record> 
+<field name='Id' value='102652928709' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106315332899' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='525000' />
+<field name='pan' value='610433******0218' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:01:49' />
+</record> 
+<record> 
+<field name='Id' value='102652946233' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106315483901' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='55000' />
+<field name='pan' value='610433******5791' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:02:54' />
+</record> 
+<record> 
+<field name='Id' value='102652952154' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106315546373' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='500000' />
+<field name='pan' value='622106******2288' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:03:19' />
+</record> 
+<record> 
+<field name='Id' value='102652961557' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106315625794' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='84000' />
+<field name='pan' value='603769******4859' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:03:52' />
+</record> 
+<record> 
+<field name='Id' value='102652996471' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106315962786' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='383000' />
+<field name='pan' value='603799******7155' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:06:32' />
+</record> 
+<record> 
+<field name='Id' value='102653003161' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106316036715' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='30000' />
+<field name='pan' value='603770******8060' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:06:57' />
+</record> 
+<record> 
+<field name='Id' value='102653025979' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106316306882' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='102000' />
+<field name='pan' value='636214******1896' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:08:53' />
+</record> 
+<record> 
+<field name='Id' value='102653028665' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106316374005' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='195000' />
+<field name='pan' value='627412******1240' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:09:01' />
+</record> 
+<record> 
+<field name='Id' value='102653188619' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106316775888' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='109000' />
+<field name='pan' value='603799******9613' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:30:15' />
+</record> 
+<record> 
+<field name='Id' value='102653212184' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106316832769' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='32000' />
+<field name='pan' value='628023******8802' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:39:29' />
+</record> 
+<record> 
+<field name='Id' value='102653225847' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106316867532' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='339000' />
+<field name='pan' value='622106******9606' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:45:32' />
+</record> 
+<record> 
+<field name='Id' value='102653227126' />
+<field name='customerId' value='534376' />
+<field name='accountNumber' value='3327691300' />
+<field name='terminalId' value='657098' />
+<field name='channelType' value='1' />
+<field name='internalReferenceId' value='106316872018' />
+<field name='transactionType' value='1' />
+<field name='transactionDate' value='' />
+<field name='transactionTime' value='' />
+<field name='amount' value='235000' />
+<field name='pan' value='627353*********8000' />
+<field name='payerId' value='0' />
+<field name='billId' value='0' />
+<field name='paymentId' value='0' />
+<field name='saleOrderId' value='' />
+<field name='additionalData' value='' />
+<field name='settlementDate' value='2015/02/28' />
+<field name='settlementTime' value='23:46:09' />
+</record> 
+</response>
