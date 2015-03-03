@@ -18,7 +18,7 @@ if(!isset($_SESSION['MM_admin_mobile'])){
     <meta name="author" content="Pooya Sabramooz">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>پنل ادمین قوی سپید یکتا</title>
+    <title>پنل مدیریتی مجتمع بوستان</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -57,7 +57,7 @@ if(!isset($_SESSION['MM_admin_mobile'])){
             <li><a href="index.php?page=password_update">تغییر رمز عبور</a></li>
             <li><a href="index.php?page=home"><?php echo $_SESSION['MM_admin_first_name'].' '.$_SESSION['MM_admin_last_name']; ?></a></li>          
           </ul>
-          <a class="navbar-brand" href="index.php" style="float:right; margin-left:20px;">سرمایه گذاران قوی سپید یکتا</a>
+          <a class="navbar-brand" href="index.php" style="float:right; margin-left:20px;">پنل مدیریتی مجتمع بوستان</a>
           <form class="navbar-form navbar-right">
             <input type="text" class="form-control" placeholder="جستجو...">
           </form>

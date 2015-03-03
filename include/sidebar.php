@@ -29,6 +29,9 @@
 	$receptors_stat = false;
 	$signup_users = false;
 	
+	#################################3
+	$unit_list = false;
+	
 	
 	$home_active='';$messages_active='';
 	$users_list_active='';$users_list_tabriz_active='';$users_edit_active='';$receptors_list_active='';$receptors_list_tabriz_active='';$reader_active='';
@@ -37,6 +40,9 @@
 	$sms_management_active='';$sms_group_send_active='';$credit_active='';$change_privileges_active='';
 	$taraz_active='';$signup_receptors_active='';$advance_search_active='';$stock_management_active='';$stock_list_active='';
 	$leaders_list_active='';$stock_sale_list_active='';$follow_list_active='';$receptors_stat_active='';$signup_users_active='';
+	
+	######################
+	$unit_list_active='';
 	
 	if(in_array('users_list',$_SESSION['permissions'])){ $users_list = true; }
 	if(in_array('users_list_tabriz',$_SESSION['permissions'])){ $users_list_tabriz = true; }
@@ -68,6 +74,10 @@
 	if(in_array('receptors_stat',$_SESSION['permissions'])){ $receptors_stat = true; }
 	if(in_array('signup_users',$_SESSION['permissions'])){ $signup_users = true; }
 	
+	
+	#####################################################
+	if(in_array('unit_list',$_SESSION['permissions'])){ $unit_list = true; }
+	
 		
 ?>
 <div class="col-sm-3 col-md-2 sidebar">
@@ -82,7 +92,11 @@
 	 if(isset($_GET['page']) && $_GET['page']=='messages'){ $messages_active = 'active'; } 
      	echo "<li class='$messages_active' ><a href='index.php?page=messages'>پیام های من</a></li>"; 
      
-	 
+
+	 if(isset($_GET['page']) && $_GET['page']=='unit_list'){ $unit_list_active = 'active'; } 
+     	if($unit_list == true){ echo "<li class='$unit_list_active' ><a href='index.php?page=unit_list'>لیست واحد ها</a></li>";}
+		
+		
 	 if(isset($_GET['page']) && $_GET['page']=='transactions_list'){ $transactions_list_active = 'active'; } 
      	if($transactions_list == true){ echo "<li class='$transactions_list_active' ><a href='index.php?page=transactions_list'>لیست خرید ها</a></li>";}
 		

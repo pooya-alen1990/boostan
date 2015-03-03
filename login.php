@@ -81,7 +81,7 @@ if(isset($_POST['submit'])){
     <meta name="author" content="Pooya Sabramooz">
     <link rel="icon" href="favicon.ico">
 
-    <title>صفحه ورود</title>
+    <title>صفحه ورود پنل مدیریتی مجتمع بوستان</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
