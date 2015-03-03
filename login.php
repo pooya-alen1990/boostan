@@ -5,9 +5,9 @@ $msg='';
 	ini_set('display_errors','1');
 ### CONNECT TO DB ###
 	$server_name="localhost";
-	$username_db="sunnycart";
-	$password_db="kosenanat:dD1369";
-	$db_name="sunnycart";
+	$username_db="root";
+	$password_db="";
+	$db_name="boostan";
 	$mysqli=new mysqli($server_name,$username_db,$password_db,$db_name) or die("Connection Failed...!");
 	$mysqli->set_charset("utf8");
 	

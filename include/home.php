@@ -8,7 +8,7 @@
 	
 ### connect to db ###
 
-	$connection = mysqli_connect('localhost','sunnycart','kosenanat:dD1369','sunnycart') OR die('FAILED...');
+	$connection = mysqli_connect('localhost','root','','boostan') OR die('FAILED...');
 	mysqli_set_charset($connection, 'utf8');
 
 #####################

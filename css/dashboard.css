@@ -5,9 +5,9 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 @font-face {
 	  font-family: 'BKoodakBold';
-	  src: url('../../font/BKoodakBold.eot?#') format('eot'),  /* IE6–8 */
-		   url('../../font/BKoodakBold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-		   url('../../font/BKoodakBold.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+	  src: url('../fonts/BKoodakBold.eot?#') format('eot'),  /* IE6–8 */
+		   url('../fonts/BKoodakBold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		   url('../fonts/BKoodakBold.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
 }
 body {
   padding-top: 50px;
