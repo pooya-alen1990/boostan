@@ -1,5 +1,5 @@
 <?php if($users_edit == false){ die('شما مجوز دسترسی به این صفحه را ندارید.'); } ?>
-<h3 class="sub-header">ویرایش سهامداران</h3>
+<h3 class="sub-header">ویرایش مالکین</h3>
 
 <?php 
 if(isset($_GET['user_mobile'])){
@@ -17,17 +17,6 @@ if(!isset($_POST['user_find'])){
 ?>
 <?php
 include('jdf.php');
-error_reporting(E_ALL);
-ini_set('display_errors','1');
-date_default_timezone_set('Asia/Tehran');
-
-	### CONNECT TO DB ###
-	$server_name="localhost";
-	$username_db="sunnycart";
-	$password_db="kosenanat:dD1369";
-	$db_name="sunnycart";
-	$mysqli=new mysqli($server_name,$username_db,$password_db,$db_name) or die("Connection Failed...!");
-	$mysqli->set_charset("utf8");
 
 	
 $error = '';

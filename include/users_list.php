@@ -1,5 +1,5 @@
 <?php if($users_list == false){ die('شما مجوز دسترسی به این صفحه را ندارید.'); } ?>
-<h3 class="sub-header">لیست سهامداران</h3>
+<h3 class="sub-header">لیست مالکین</h3>
 <div class="table-responsive text-center">
             <table class="table table-striped table-hover table-bordered tablesorter">
                <thead>
@@ -20,17 +20,7 @@
                 <tbody>
 <?php
 include('jdf.php');
-error_reporting(E_ALL);
-ini_set('display_errors','1');
-date_default_timezone_set('Asia/Tehran');
-$i = 1 ;
-	### CONNECT TO DB ###
-	$server_name="localhost";
-	$username_db="sunnycart";
-	$password_db="kosenanat:dD1369";
-	$db_name="sunnycart";
-	$mysqli=new mysqli($server_name,$username_db,$password_db,$db_name) or die("Connection Failed...!");
-	$mysqli->set_charset("utf8");
+$i = 1;
 
 	$count_users="SELECT COUNT(id) FROM users;";
 	$count_users_result=$mysqli->query($count_users);

@@ -3,6 +3,15 @@
 session_start();
 error_reporting(E_ALL);
 ini_set('display_errors','1');
+date_default_timezone_set('Asia/Tehran');
+
+### CONNECT TO DB ###
+	$server_name="localhost";
+	$username_db="root";
+	$password_db="";
+	$db_name="boostan";
+	$mysqli=new mysqli($server_name,$username_db,$password_db,$db_name) or die("Connection Failed...!");
+	$mysqli->set_charset("utf8");
 
 if(!isset($_SESSION['MM_admin_mobile'])){
 	header('Location: login.php');

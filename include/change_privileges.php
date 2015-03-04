@@ -12,18 +12,10 @@
 				</tr>
 <?php
 include('jdf.php');
-error_reporting(E_ALL);
-ini_set('display_errors','1');
-date_default_timezone_set('Asia/Tehran');
+
 $i = 1 ;
 $mojavez='';
-	### CONNECT TO DB ###
-	$server_name="localhost";
-	$username_db="sunnycart";
-	$password_db="kosenanat:dD1369";
-	$db_name="sunnycart";
-	$mysqli=new mysqli($server_name,$username_db,$password_db,$db_name) or die("Connection Failed...!");
-	$mysqli->set_charset("utf8");
+
 	
 	
 
