@@ -45,8 +45,8 @@ if(isset($_POST['go_register'])){
 			if(isset($_FILES['personal_image']['name'])){
 				if($personal_image['error'] == "0"){
 					$personal_image['name'] = time().'.jpg';
-					$address = "images/users/personal/$personal_image[name]";
-					move_uploaded_file($personal_image['tmp_name'],$address);
+					$address_personal_image = "images/users/personal/$personal_image[name]";
+					move_uploaded_file($personal_image['tmp_name'],$address_personal_image);
 				}
 			}
 			if(isset($_FILES['karte_melli_image'])){
@@ -185,7 +185,7 @@ if(isset($_POST['go_register'])){
             <label class=" control-label col-sm-4" for="karte_melli_image">تصویر کارت ملی</label>
   </div>
       
-      <div class="col-sm-4">
+      <div class="col-sm-6">
             <input type="reset" value="ویرایش" class=" btn btn-warning" tabindex="11">
             <input type="submit" name="go_register" class=" btn btn-primary" value="ثبت نام" tabindex="10">
        </div>

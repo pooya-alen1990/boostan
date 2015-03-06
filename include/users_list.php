@@ -27,16 +27,22 @@
 		
 	while($users_row = $users_result->fetch_assoc()){
 			
-			if($users_row['sanad']){
-				$users_row['sanad'] = '<a target="_blank" href="images/vahed/'.$users_row['sanad'].'"><span style="color:blue" class="glyphicon glyphicon-file"></span></a>';
+			if($users_row['karte_melli_image']){
+				$users_row['karte_melli_image'] = '<a target="_blank" href="images/users/melli_card/'.$users_row['karte_melli_image'].'"><img src="images/users/melli_card/'.$users_row['karte_melli_image'].'" width="30"></a>';
 				}else{
-				$users_row['sanad'] = '<span style="color:red">ندارد</span>';	
+				$users_row['karte_melli_image'] = '<span style="color:red">ندارد</span>';	
 					}
-					
+			
+			if($users_row['personal_image']){
+				$users_row['personal_image'] = '<a target="_blank" href="images/users/personal/'.$users_row['personal_image'].'"><img src="images/users/personal/'.$users_row['personal_image'].'" width="30"></a>';
+				}else{
+				$users_row['personal_image'] = '<span style="color:red">ندارد</span>';	
+					}
+				$users_row['birthday'] = jdate("Y/m/d",$users_row['birthday']);	
 		echo "
 			  <tr>
 						<td>$users_row[id]</td>
-						<td>$users_row[first_name] $vahed_row[last_name]</td>
+						<td>$users_row[first_name] $users_row[last_name]</td>
 						<td>$users_row[melli_code]</td>
 						<td>$users_row[mobile]</td>
 						<td>$users_row[tel]</td>
