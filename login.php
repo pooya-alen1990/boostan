@@ -96,12 +96,13 @@ if(isset($_POST['submit'])){
     <![endif]-->
   </head>
 
-  <body dir="rtl">
-
+  <body dir="rtl" style="padding-top:0;">
+	
     <div class="container">
-
+	
       <form class="form-signin" role="form" method="post">
-        <h2 class="form-signin-heading text-center">لطفا وارد شوید</h2>
+      <img src="images/logo.jpg"  alt="" class="img-circle text-center" width="300"/>
+        <h2 class="form-signin-heading text-center">مجتمع اداری تجاری بوستان</h2>
         <input type="text" name="mobile" maxlength="11" class="form-control" placeholder="شماره موبایل" required data-error-empty="پر کردن این فیلد اجباری است" autofocus>
         <input type="password" name="password" class="form-control" placeholder="رمز عبور" data-error-empty="پر کردن این فیلد اجباری است" required>
         <!--<label class="checkbox">
