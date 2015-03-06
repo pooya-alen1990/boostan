@@ -18,24 +18,16 @@
                     <th>پارکینگ</th>
                     <th>گاز</th>
                     <th>تلفن</th>
+                    <th>سند</th>
 				</tr>
             </thead>
             <tbody>
 <?php
 
 	
-	$vahed_query = "SELECT `id`, `radif`, `pelak_sabti`, `pelak_abi`, `address`, `masahat_sabti`, `kontori_marboote`, `shomare_badane_kontor`, `shomare_parvande`, `noe_faaz`, `noe_karbari`, `ab`, `parking`, `gaz`, `telephone` FROM `vahed` WHERE 1";
+	$vahed_query = "SELECT * FROM `vahed` ";
 	
 	$vahed_result = $mysqli->query($vahed_query);
-
-	function daradNadarad($input){
-		
-		if($input == 1){
-			return "<span style='color:green;'>دارد</span>";
-			}else if ($input == 0){
-			return "<span style='color:red;'>ندارد</span>";	
-				}
-		}
 		
 		
 	while($vahed_row = $vahed_result->fetch_assoc()){
@@ -43,7 +35,11 @@
 			$vahed_row['ab'] = daradNadarad($vahed_row['ab']);
 			$vahed_row['parking'] = daradNadarad($vahed_row['parking']);
 			$vahed_row['gaz'] = daradNadarad($vahed_row['gaz']);
-			
+			if($vahed_row['sanad']){
+				$vahed_row['sanad'] = '<a target="_blank" href="images/vahed/'.$vahed_row['sanad'].'"><span style="color:blue" class="glyphicon glyphicon-file"></span></a>';
+				}else{
+				$vahed_row['sanad'] = '<span style="color:red">ندارد</span>';	
+					}
 		echo "
 		  <tr>
 					<td>$vahed_row[id]</td>
@@ -60,6 +56,7 @@
 					<td>$vahed_row[parking]</td>
 					<td>$vahed_row[gaz]</td>
 					<td>$vahed_row[telephone]</td>	
+					<td>$vahed_row[sanad]</td>
 		  </tr>";	
 
 	}

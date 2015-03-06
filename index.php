@@ -4,7 +4,9 @@ session_start();
 error_reporting(E_ALL);
 ini_set('display_errors','1');
 date_default_timezone_set('Asia/Tehran');
+include('include/jdf.php');
 
+		
 ### CONNECT TO DB ###
 	$server_name="localhost";
 	$username_db="root";
@@ -13,6 +15,25 @@ date_default_timezone_set('Asia/Tehran');
 	$mysqli=new mysqli($server_name,$username_db,$password_db,$db_name) or die("Connection Failed...!");
 	$mysqli->set_charset("utf8");
 
+
+
+#### FUNCTIONS ########
+  function toSafeString($mysqli,$string){
+		  $string=$mysqli->real_escape_string($string);
+		  $string=htmlentities($string,ENT_QUOTES,"utf-8");
+		  $string=trim($string);
+		  return $string;
+	  }
+  function daradNadarad($input){
+	  
+	  if($input == 1){
+		  return "<span style='color:green;'>دارد</span>";
+		  }else if ($input == 0){
+		  return "<span style='color:red;'>ندارد</span>";	
+			  }
+	  }
+	  
+	  
 if(!isset($_SESSION['MM_admin_mobile'])){
 	header('Location: login.php');
 }
