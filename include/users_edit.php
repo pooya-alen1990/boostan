@@ -16,9 +16,7 @@ if(!isset($_POST['user_find'])){
 }
 ?>
 <?php
-include('jdf.php');
 
-	
 $error = '';
 
 if(isset($_POST['go_update'])){

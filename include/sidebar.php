@@ -4,17 +4,19 @@
 	$change_privileges = false;
 	$signup_users = false;
 	$unit_list = false;
+	$add_contract = false;
 	
 	
 	$home_active='';$messages_active='';
 	$users_list_active='';$users_edit_active='';$signup_users_active='';
-	$unit_list_active='';$change_privileges_active='';
+	$unit_list_active='';$change_privileges_active='';$add_contract_active='';
 	
 	if(in_array('users_list',$_SESSION['permissions'])){ $users_list = true; }
 	if(in_array('users_edit',$_SESSION['permissions'])){ $users_edit = true; }
 	if(in_array('change_privileges',$_SESSION['permissions'])){ $change_privileges = true; }
 	if(in_array('signup_users',$_SESSION['permissions'])){ $signup_users = true; }
 	if(in_array('unit_list',$_SESSION['permissions'])){ $unit_list = true; }
+	if(in_array('add_contract',$_SESSION['permissions'])){ $add_contract = true; }
 	
 		
 ?>
@@ -44,6 +46,10 @@
 	
 	if(isset($_GET['page']) && $_GET['page']=='signup_users'){ $signup_users_active = 'active'; }
     	if($signup_users == true){ echo "<li class='$signup_users_active' ><a href='index.php?page=signup_users'>ثبت نام مالکین</a></li>";}
+	
+	if(isset($_GET['page']) && $_GET['page']=='add_contract'){ $add_contract_active = 'active'; }
+    	if($add_contract == true){ echo "<li class='$add_contract_active' ><a href='index.php?page=add_contract'>اضافه کردن قرارداد</a></li>";}
+	
 	
 	if(isset($_GET['page']) && $_GET['page']=='change_privileges'){ $change_privileges_active = 'active'; }
     	if($change_privileges == true){ echo "<li class='$change_privileges_active' ><a href='index.php?page=change_privileges'>تغییر سطح دسترسی</a></li>";}

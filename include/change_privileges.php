@@ -11,7 +11,6 @@
                     <th>امکانات</th>
 				</tr>
 <?php
-include('jdf.php');
 
 $i = 1 ;
 $mojavez='';

@@ -44,7 +44,8 @@
 		  <tr>
 					<td>$vahed_row[id]</td>
 					<td>$vahed_row[pelak_sabti]</td>
-					<td>$vahed_row[pelak_abi]</td>
+					<td><a target='_blank' title='جزییات' href='index.php?page=vahed_contracts&id=$vahed_row[id]'><span class='glyphicon glyphicon-paperclip' style='color:blue;'></span></a> $vahed_row[pelak_abi]
+					</td>
 					<td>$vahed_row[address]</td>
 					<td>$vahed_row[masahat_sabti]</td>
 					<td>$vahed_row[kontori_marboote]</td>
