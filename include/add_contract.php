@@ -97,7 +97,10 @@ if(isset($_POST['go_register'])){
 
  <div class="form-group">           
             
-            <div class="col-sm-8"><input class="form-control numeric" type="text" name="melli_code" maxlength="10" tabindex="1"></div>
+            <div class="col-sm-8">
+            
+            <input <?php if(isset($_GET['user_melli_code'])){ echo "value=\"$_GET[user_melli_code]\" ";} ; ?>
+             class="form-control numeric" type="text" name="melli_code" maxlength="10" tabindex="1"></div>
             <label class=" control-label col-sm-4" for="melli_code">کد ملی مالک : </label>
   </div>
   

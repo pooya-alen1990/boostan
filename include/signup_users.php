@@ -12,6 +12,7 @@ if(isset($_POST['go_register'])){
 	$first_name = toSafeString($mysqli,$_POST['first_name']);
 	$last_name = toSafeString($mysqli,$_POST['last_name']);
 	$melli_code = toSafeString($mysqli,$_POST['melli_code']);
+	$shenasname = toSafeString($mysqli,$_POST['shenasname']);
 	$mobile = toSafeString($mysqli,$_POST['mobile']);
 	$tel = toSafeString($mysqli,$_POST['tel']);
 	$address = toSafeString($mysqli,$_POST['address']);
@@ -29,6 +30,7 @@ if(isset($_POST['go_register'])){
 		!empty($first_name)&&
 		!empty($last_name)&&
 		!empty($melli_code)&&
+		!empty($shenasname)&&
 		!empty($mobile)&&
 		!empty($tel)
 	){
@@ -56,7 +58,7 @@ if(isset($_POST['go_register'])){
 					move_uploaded_file($karte_melli_image['tmp_name'],$address_melli_image);
 				}
 			}
-					$signup_users_query="INSERT INTO `users`(`id`, `first_name`, `last_name`, `melli_code`, `mobile`, `tel`, `address`, `birthday`, `personal_image`, `karte_melli_image`) VALUES ('','$first_name','$last_name','$melli_code','$mobile','$tel','$address','$birthday','$personal_image[name]','$karte_melli_image[name]')";
+					$signup_users_query="INSERT INTO `users`(`id`, `first_name`, `last_name`, `melli_code`, `shenasname`, `mobile`, `tel`, `address`, `birthday`, `personal_image`, `karte_melli_image`) VALUES ('','$first_name','$last_name','$melli_code',$shenasname','$mobile','$tel','$address','$birthday','$personal_image[name]','$karte_melli_image[name]')";
 					$signup_users_result = $mysqli->query($signup_users_query);
 					
 					
@@ -65,6 +67,8 @@ if(isset($_POST['go_register'])){
 				if($signup_users_result){
 					
 					
+				//sleep(3);
+				header("Location: index.php?page=add_contract&user_melli_code=$melli_code");
 					
 				$error = "		<div class='col-sm-12'>
 												<div class='alert alert-success alert-dismissable'>
@@ -129,6 +133,11 @@ if(isset($_POST['go_register'])){
             <div class="col-sm-8"><input class="form-control numeric" type="text" name="melli_code" maxlength="10" tabindex="3"></div>
             <label class=" control-label col-sm-4" for="melli_code">کد ملی : </label>
   </div>
+  <div class="form-group">           
+            
+            <div class="col-sm-8"><input class="form-control numeric" type="text" name="shenasname" maxlength="10" tabindex="3"></div>
+            <label class=" control-label col-sm-4" for="shenasname">شماره شناسنامه : </label>
+  </div>
   <div class="form-group">          
             
             <div class="col-sm-8"><input type="text" maxlength="11" class="form-control" name="mobile" tabindex="4"></div>
@@ -149,10 +158,10 @@ if(isset($_POST['go_register'])){
    <div class="form-group">          
             <div class="col-sm-8">
 
-            <select  style="display: inline-block;width: auto;" id="form_birthday_day" name="day" required="required" class="form-control"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+            <select  style="display: inline-block;width: auto;" id="form_birthday_day" name="day" required class="form-control"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
             
             
-         <select style="display: inline-block;width: auto;" id="form_birthday_month" name="month" required="required" class="form-control">
+         <select style="display: inline-block;width: auto;" id="form_birthday_month" name="month" required class="form-control">
             <option value="1">فروردین</option>
             <option value="2">اردیبهشت</option>
             <option value="3">خرداد</option>
@@ -168,7 +177,7 @@ if(isset($_POST['go_register'])){
         </select>
             
             
-            <select  style="display: inline-block;width: auto;" id="form_birthday_year" name="year" required="required" class="form-control">
+            <select  style="display: inline-block;width: auto;" id="form_birthday_year" name="year" required class="form-control">
             <?php echo $options; ?>
             </select>
          </div>

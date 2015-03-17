@@ -7,6 +7,7 @@
 					<th>ردیف</th>
 					<th>نام و نام خانوادگی</th>
                     <th>کد ملی</th>
+                    <th>شماره شناسنامه</th>
 					<th>موبایل</th>
 					<th>تلفن</th>
                     <th>آدرس</th>
@@ -44,6 +45,7 @@
 						<td>$users_row[id]</td>
 						<td>$users_row[first_name] $users_row[last_name]</td>
 						<td>$users_row[melli_code]</td>
+						<td>$users_row[shenasname]</td>
 						<td>$users_row[mobile]</td>
 						<td>$users_row[tel]</td>
 						<td>$users_row[address]</td>
