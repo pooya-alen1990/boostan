@@ -58,9 +58,9 @@ if(isset($_POST['go_register'])){
 					move_uploaded_file($karte_melli_image['tmp_name'],$address_melli_image);
 				}
 			}
-					$signup_users_query="INSERT INTO `users`(`id`, `first_name`, `last_name`, `melli_code`, `shenasname`, `mobile`, `tel`, `address`, `birthday`, `personal_image`, `karte_melli_image`) VALUES ('','$first_name','$last_name','$melli_code',$shenasname','$mobile','$tel','$address','$birthday','$personal_image[name]','$karte_melli_image[name]')";
+					$signup_users_query="INSERT INTO `users`(`id`, `first_name`, `last_name`, `melli_code`, `shenasname`, `mobile`, `tel`, `address`, `birthday`, `personal_image`, `karte_melli_image`) VALUES ('','$first_name','$last_name','$melli_code','$shenasname','$mobile','$tel','$address','$birthday','$personal_image[name]','$karte_melli_image[name]')";
 					$signup_users_result = $mysqli->query($signup_users_query);
-					
+					//echo $signup_users_query;
 					
 					
 					
