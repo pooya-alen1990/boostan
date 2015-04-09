@@ -31,7 +31,7 @@ if(isset($_POST['go_register'])){
 		!empty($last_name)&&
 		!empty($melli_code)&&
 		!empty($shenasname)&&
-		!empty($mobile)&&
+		//!empty($mobile)&&
 		!empty($tel)
 	){
 		
