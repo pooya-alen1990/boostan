@@ -43,7 +43,7 @@
 		echo "
 			  <tr>
 						<td>$users_row[id]</td>
-						<td>$users_row[first_name] $users_row[last_name]</td>
+						<td><a href='index.php?page=users_edit&user_melli_code=$users_row[melli_code]'><span class='glyphicon glyphicon-pencil' style='color:blue;'></span></a> $users_row[first_name] $users_row[last_name]</td>
 						<td>$users_row[melli_code]</td>
 						<td>$users_row[shenasname]</td>
 						<td>$users_row[mobile]</td>

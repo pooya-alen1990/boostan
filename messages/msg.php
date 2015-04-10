@@ -39,6 +39,13 @@ define('CONTRACT_PERCENT' , "<div class='col-sm-12'>
 								  <button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;</button>
 									درصد مالکیت وارد شده نامعتبر می باشد.
 								</div>
-							</div>");																			
+							</div>");	
+
+define('USERS_EDIT_SUCCESSFUL' , "<div class='col-sm-12'>
+									<div class='alert alert-success alert-dismissable'>
+									  <button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;</button>
+									  ویرایش با موفقیت انجام شد.
+									</div>
+								</div>");																		
 
 ?>

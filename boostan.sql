@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.0.4
+-- version 4.2.5
 -- http://www.phpmyadmin.net
 --
--- Host: 127.0.0.1
--- Generation Time: Mar 10, 2015 at 12:24 PM
--- Server version: 5.6.12-log
--- PHP Version: 5.4.12
+-- Host: localhost:3306
+-- Generation Time: Apr 09, 2015 at 07:00 PM
+-- Server version: 5.1.73
+-- PHP Version: 5.5.21
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -19,8 +19,6 @@ SET time_zone = "+00:00";
 --
 -- Database: `boostan`
 --
-CREATE DATABASE IF NOT EXISTS `boostan` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `boostan`;
 
 -- --------------------------------------------------------
 
@@ -29,22 +27,21 @@ USE `boostan`;
 --
 
 CREATE TABLE IF NOT EXISTS `admins` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+`id` int(11) NOT NULL,
   `first_name` varchar(250) NOT NULL,
   `last_name` varchar(250) NOT NULL,
   `password` varchar(250) NOT NULL,
   `mobile` varchar(250) NOT NULL,
-  `roles_id` int(11) NOT NULL,
-  PRIMARY KEY (`id`),
-  KEY `roles_id` (`roles_id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
+  `roles_id` int(11) NOT NULL
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
 
 --
 -- Dumping data for table `admins`
 --
 
 INSERT INTO `admins` (`id`, `first_name`, `last_name`, `password`, `mobile`, `roles_id`) VALUES
-(1, 'پویا', 'صبرآموز', '46faecb386d33e643afdabc62393fa7e84f5bf66', '09361946269', 1);
+(1, 'پویا', 'صبرآموز', '40bd001563085fc35165329ea1ff5c5ecbdbbeef', '09361946269', 1),
+(2, 'سعید', 'پروازی', '40bd001563085fc35165329ea1ff5c5ecbdbbeef', '09122449668', 1);
 
 -- --------------------------------------------------------
 
@@ -53,25 +50,50 @@ INSERT INTO `admins` (`id`, `first_name`, `last_name`, `password`, `mobile`, `ro
 --
 
 CREATE TABLE IF NOT EXISTS `contract` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+`id` int(11) NOT NULL,
   `vahed_id` int(11) NOT NULL,
   `users_id` int(11) NOT NULL,
   `percent` int(11) NOT NULL,
   `gholname_image` varchar(250) NOT NULL,
   `begin_date` bigint(20) NOT NULL,
-  `duration` int(11) NOT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=10 ;
+  `duration` int(11) NOT NULL
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=44 ;
 
 --
 -- Dumping data for table `contract`
 --
 
 INSERT INTO `contract` (`id`, `vahed_id`, `users_id`, `percent`, `gholname_image`, `begin_date`, `duration`) VALUES
-(6, 1, 9, 90, '1425972295.jpg', 0, 0),
-(7, 1, 9, 10, '1425972295.jpg', 0, 0),
-(8, 7, 9, 30, '', 1458419400, 0),
-(9, 13, 9, 2, '', -1539487544, 4);
+(14, 107, 16, 100, '', -1539487544, 0),
+(15, 111, 17, 100, '', -1539487544, 0),
+(16, 54, 18, 100, '', -1539487544, 0),
+(17, 104, 20, 100, '', -1539487544, 0),
+(18, 61, 23, 100, '', -1539487544, 0),
+(19, 64, 24, 100, '', -1539487544, 0),
+(20, 120, 25, 100, '', -1539487544, 0),
+(21, 99, 26, 100, '', -1539487544, 0),
+(22, 103, 27, 100, '', -1539487544, 0),
+(23, 106, 28, 100, '', -1539487544, 0),
+(24, 114, 29, 100, '', -1539487544, 0),
+(25, 117, 30, 100, '', -1539487544, 0),
+(26, 57, 31, 100, '', -1539487544, 0),
+(27, 59, 32, 100, '', -1539487544, 0),
+(28, 66, 33, 100, '', -1539487544, 0),
+(29, 67, 34, 100, '', -1539487544, 0),
+(30, 74, 35, 100, '', -1539487544, 0),
+(31, 77, 36, 100, '', -1539487544, 0),
+(32, 93, 37, 100, '', -1539487544, 0),
+(33, 96, 38, 100, '', -1539487544, 0),
+(34, 6, 39, 100, '', -1539487544, 0),
+(35, 5, 40, 100, '', -1539487544, 0),
+(36, 13, 41, 100, '', -1539487544, 0),
+(37, 14, 42, 100, '', -1539487544, 0),
+(38, 17, 43, 100, '', -1539487544, 0),
+(39, 18, 44, 100, '', -1539487544, 0),
+(40, 26, 45, 100, '', -1539487544, 0),
+(41, 39, 46, 100, '', -1539487544, 0),
+(42, 47, 47, 100, '', -1539487544, 0),
+(43, 48, 48, 100, '', -1539487544, 0);
 
 -- --------------------------------------------------------
 
@@ -80,10 +102,9 @@ INSERT INTO `contract` (`id`, `vahed_id`, `users_id`, `percent`, `gholname_image
 --
 
 CREATE TABLE IF NOT EXISTS `permissions` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+`id` int(11) NOT NULL,
   `title` varchar(250) NOT NULL,
-  `ENtitle` varchar(250) NOT NULL,
-  PRIMARY KEY (`id`)
+  `ENtitle` varchar(250) NOT NULL
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=7 ;
 
 --
@@ -105,10 +126,9 @@ INSERT INTO `permissions` (`id`, `title`, `ENtitle`) VALUES
 --
 
 CREATE TABLE IF NOT EXISTS `quotations` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+`id` int(11) NOT NULL,
   `author` varchar(255) NOT NULL,
-  `text` varchar(255) NOT NULL,
-  PRIMARY KEY (`id`)
+  `text` varchar(255) NOT NULL
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2001 ;
 
 --
@@ -2132,9 +2152,8 @@ INSERT INTO `quotations` (`id`, `author`, `text`) VALUES
 --
 
 CREATE TABLE IF NOT EXISTS `roles` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `title` varchar(250) NOT NULL,
-  PRIMARY KEY (`id`)
+`id` int(11) NOT NULL,
+  `title` varchar(250) NOT NULL
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=8 ;
 
 --
@@ -2155,10 +2174,9 @@ INSERT INTO `roles` (`id`, `title`) VALUES
 --
 
 CREATE TABLE IF NOT EXISTS `rolespermissions` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+`id` int(11) NOT NULL,
   `roles_id` int(11) NOT NULL,
-  `permissions_id` int(11) NOT NULL,
-  PRIMARY KEY (`id`)
+  `permissions_id` int(11) NOT NULL
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=7 ;
 
 --
@@ -2180,25 +2198,54 @@ INSERT INTO `rolespermissions` (`id`, `roles_id`, `permissions_id`) VALUES
 --
 
 CREATE TABLE IF NOT EXISTS `users` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+`id` int(11) NOT NULL,
   `first_name` varchar(250) NOT NULL,
   `last_name` varchar(250) NOT NULL,
   `melli_code` varchar(250) NOT NULL,
+  `shenasname` varchar(250) NOT NULL,
   `mobile` varchar(250) NOT NULL,
   `tel` varchar(250) NOT NULL,
   `address` text NOT NULL,
   `birthday` bigint(20) NOT NULL,
   `personal_image` varchar(250) NOT NULL,
-  `karte_melli_image` varchar(250) NOT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=10 ;
+  `karte_melli_image` varchar(250) NOT NULL
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=51 ;
 
 --
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `first_name`, `last_name`, `melli_code`, `mobile`, `tel`, `address`, `birthday`, `personal_image`, `karte_melli_image`) VALUES
-(9, 'پویا', 'صبرآموز', '0012432385', '09361946269', '44444444', 'پونک - پلاک 2', 652825800, '1425628165.jpg', '1425628165.jpg');
+INSERT INTO `users` (`id`, `first_name`, `last_name`, `melli_code`, `shenasname`, `mobile`, `tel`, `address`, `birthday`, `personal_image`, `karte_melli_image`) VALUES
+(16, 'مرتضی', 'قناد', '4591077691', '', '09121494089', '44499484', '', -168319800, '', ''),
+(17, 'غلامرضا', 'اسماعیل زاده', '0039661423', '', '09126104357', '44499201', '', -705209400, '', ''),
+(18, 'مهدی', 'میرافضلی کهنکی', '0073242136', '', '09121957650', '444988091', '', -300425400, '', ''),
+(20, 'چنگيز', 'صلاحي', '1638515395', '257', '09121940380', '44498671', '', -1539487544, '', ''),
+(23, 'منصور', 'میهن پرست', '0046140093', '1426', '', '44489425', '', -490073400, '', ''),
+(24, 'داود', 'بلند همت', '0064203391', '12413', '09126723530', '44499762', '', -26883000, '', ''),
+(25, 'مرضيه', 'زمردين', '0383639761', '1758', '09121494941', '44444444', '', -79155000, '', ''),
+(26, 'غلامرضا', 'رنجبر', '1533843597', '16', '09127166256', '44498086', '', -173503800, '', ''),
+(27, 'سيد بهرام', 'مهربان', '3874788598', '49', '', '44498654', '', -150953400, '', ''),
+(28, 'رضا', 'ابراهيمي', '0065108159', '11754', '09368391300', '44444444', '', 225491400, '', ''),
+(29, 'شاپور', 'توكلي', '0051148031', '3271', '', '44498492', '', -99113400, '', ''),
+(30, 'عبدالله', 'حسين فرد', '0055014321', '1376', '09122895282', '44444444', '', 76969800, '', ''),
+(31, 'غلام', 'غلامي قاراب عليا', '1533781265', '3', '09123500408', '44444444', '', -686719800, '', ''),
+(32, 'بهرام', 'ملكي', '0039861325', '773', '09121145378', '44444444', '', -561180600, '', ''),
+(33, 'اسدالله', 'اصفهاني', '421444282', '25', '', '44498197', '', -813036344, '', ''),
+(34, 'رضا', 'زماني بهرامي', '5099658075', '396', '', '44499565', '', -260335800, '', ''),
+(35, 'يعقوب', 'صالحي', '1530349729', '35148', '09124403692', '88051297', '', -85635000, '', ''),
+(36, 'محمد رسول', 'ديتدار', '1378864476', '1099', '', '44444444', '', -380777400, '', ''),
+(37, 'فرهاد', 'آزادي', '1461327970', '11826', '09121851833', '44498667', '', -13059000, '', ''),
+(38, 'مرتضي', 'پورفريد', '0044151993', '2087', '09355131508', '44498666', '', -722748600, '', ''),
+(39, 'كيان', 'نجفي', '6039051906', '922', '', '44468742', '', -169097400, '', ''),
+(40, 'فاطمه', 'شعبان زاده', '2630792341', '12', '09121868580', '44227560', '', -718947000, '', ''),
+(41, 'سيد ابوالقاسم', 'موسوي رشت آبادي', '2595168071', '8', '09122786372', '44426652', '', -778994744, '', ''),
+(42, 'شهرام', 'دلير', '2909024350', '5825', '09353835957', '44499433', '', -305955000, '', ''),
+(43, 'مرتضي', 'نظيري زاد', '0532032306', '1069', '', '44498511', '', -1539487544, '', ''),
+(44, 'مهرداد', 'معصومي', '0074716212', '5916', '09121346268', '88094257', '', 400537800, '', ''),
+(45, 'علي', 'فصيدي', '0054419425', '274', '', '44444444', '', -79846200, '', ''),
+(46, 'محمدفريد', 'سالمي', '3255189993', '32', '09126268753', '44498179', '', -212124600, '', ''),
+(47, 'سيدجعفر', 'جعفري امان آبادي', '0532196031', '875', '09127109668', '44470366', '', -187932600, '', ''),
+(48, 'سيد عليرضا', 'دين پرور', '0043427111', '970', '', '88076768', '', -154409400, '', '');
 
 -- --------------------------------------------------------
 
@@ -2207,7 +2254,7 @@ INSERT INTO `users` (`id`, `first_name`, `last_name`, `melli_code`, `mobile`, `t
 --
 
 CREATE TABLE IF NOT EXISTS `vahed` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+`id` int(11) NOT NULL,
   `radif` varchar(255) DEFAULT NULL,
   `pelak_sabti` varchar(255) DEFAULT NULL,
   `pelak_abi` varchar(255) DEFAULT NULL,
@@ -2222,8 +2269,7 @@ CREATE TABLE IF NOT EXISTS `vahed` (
   `parking` varchar(255) DEFAULT NULL,
   `gaz` varchar(255) DEFAULT NULL,
   `telephone` varchar(255) DEFAULT NULL,
-  `sanad` varchar(250) NOT NULL,
-  PRIMARY KEY (`id`)
+  `sanad` varchar(250) NOT NULL
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=956 ;
 
 --
@@ -3190,6 +3236,102 @@ INSERT INTO `vahed` (`id`, `radif`, `pelak_sabti`, `pelak_abi`, `address`, `masa
 (954, '954', '836T', 'ندارد', 'آبشار طبقه سوم', '23.01', '', '', '', '', 'تره بار', '', '', '0', '', ''),
 (955, '955', '837T', 'ندارد', 'آبشار طبقه سوم', '22.82', '', '', '', '', 'تره بار', '', '', '0', '', '');
 
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `admins`
+--
+ALTER TABLE `admins`
+ ADD PRIMARY KEY (`id`), ADD KEY `roles_id` (`roles_id`);
+
+--
+-- Indexes for table `contract`
+--
+ALTER TABLE `contract`
+ ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `permissions`
+--
+ALTER TABLE `permissions`
+ ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `quotations`
+--
+ALTER TABLE `quotations`
+ ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `roles`
+--
+ALTER TABLE `roles`
+ ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `rolespermissions`
+--
+ALTER TABLE `rolespermissions`
+ ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `users`
+--
+ALTER TABLE `users`
+ ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `vahed`
+--
+ALTER TABLE `vahed`
+ ADD PRIMARY KEY (`id`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `admins`
+--
+ALTER TABLE `admins`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=3;
+--
+-- AUTO_INCREMENT for table `contract`
+--
+ALTER TABLE `contract`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=44;
+--
+-- AUTO_INCREMENT for table `permissions`
+--
+ALTER TABLE `permissions`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=7;
+--
+-- AUTO_INCREMENT for table `quotations`
+--
+ALTER TABLE `quotations`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2001;
+--
+-- AUTO_INCREMENT for table `roles`
+--
+ALTER TABLE `roles`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=8;
+--
+-- AUTO_INCREMENT for table `rolespermissions`
+--
+ALTER TABLE `rolespermissions`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=7;
+--
+-- AUTO_INCREMENT for table `users`
+--
+ALTER TABLE `users`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=51;
+--
+-- AUTO_INCREMENT for table `vahed`
+--
+ALTER TABLE `vahed`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=956;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
