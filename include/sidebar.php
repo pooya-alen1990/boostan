@@ -36,8 +36,8 @@
 	 if(isset($_GET['page']) && $_GET['page']=='unit_list'){ $unit_list_active = 'active'; } 
      	if($unit_list == true){ echo "<li class='$unit_list_active' ><a href='index.php?page=unit_list'>لیست واحد ها</a></li>";}
 		
-	if(isset($_GET['page']) && $_GET['page']=='users_list'){ $unit_list_active = 'active'; } 
-     	if($unit_list == true){ echo "<li class='$users_list_active' ><a href='index.php?page=users_list'>لیست مالکین</a></li>";}
+	if(isset($_GET['page']) && $_GET['page']=='users_list'){ $users_list_active = 'active'; } 
+     	if($users_list == true){ echo "<li class='$users_list_active' ><a href='index.php?page=users_list'>لیست مالکین</a></li>";}
 				
 	
 	if(isset($_GET['page']) && $_GET['page']=='users_edit'){ $users_edit_active = 'active'; }
